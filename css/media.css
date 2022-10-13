@@ -1,0 +1,28 @@
+@media only screen and (max-width:576px) {
+    .container{
+        width: 94%;
+        height: auto;
+        margin: auto;
+        color: #f9004d;
+    }
+    ul li{
+        margin: 0 0.5rem 0 0;
+        
+    }
+    .btn{
+        background-color: #f9004d;
+        padding: 0.6rem 1rem 0.3rem 1rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        border-radius: 1rem;
+        display: block;
+        transition: 0.4s;
+        margin-left: 0;
+        color: #f9004d;
+    }
+    .relative-email{
+        display: block;
+    }
+    
+
+}
