@@ -22,6 +22,7 @@ body{
 }
 
 /* header */
+
 header {
     background-image: url(../image/146492480_2750513088599626_8198203772922294353_n.jpg);
     background-color: #0000005e;
@@ -58,6 +59,8 @@ ul li{
     margin: 0 1rem;
 }
 .btn{
+    width: 5rem;
+    text-align: center;
     margin-right: 0;
     background: #f9004d;
     padding: 0.6rem 1rem 0.3rem 1rem;
@@ -179,6 +182,8 @@ ul li{
     line-height: 1.5rem;
 }
 .main-content a {
+    width: 7rem;
+    height: 3rem;
     padding: 0.5rem 1rem;
     background-color: #f9004d;
     text-decoration: none;
@@ -231,6 +236,10 @@ gap: 1rem;
     text-align: center;
 }
 .pra a{
+    width: 7rem;
+    height: 2.7rem;
+    line-height: 2rem;
+    text-align: center;
     padding: 0.5rem;
     background-color: #f9004d;
     text-decoration: none;
